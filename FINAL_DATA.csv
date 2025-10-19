@@ -1,0 +1,293 @@
+,interview_id,name,age,gender,role_applied,industry_skills,jd,interview_date,transcript,clean_transcript,summary,key_skills,JD_match,Red_Flag
+0,INT1001,Kabir Patel,37,Female,HR Executive,"employee engagement, communication, recruitment, policy, onboarding","Manage recruitment, employee engagement initiatives, and HR policy implementation. Excellent communication and organizational skills required.",2023-07-08,"Kabir Patel: Good morning! Thank you for this opportunity.
+Interviewer: Thanks for joining — let's begin.
+Interviewer: What are your key strengths?
+Kabir Patel: My strengths are employee engagement and communication.
+Interviewer: Can you walk me through a challenging problem you solved?
+Candidate: My last project involved communication and cross-functional coordination.
+Interviewer: Tell me about a recent technical/project you worked on.
+Kabir Patel: My last project involved communication and cross-functional coordination.
+Interviewer: What motivates you at work?
+Kabir Patel: I want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: Do you have any questions for us?
+Candidate: I look forward to hearing from you. Thank you.
+Interviewer: Describe your role in your last project.
+Candidate: My so last project involved communication and cross-functional coordination.
+Interviewer: Tell me about a recent technical/project you worked on.
+Kabir Patel: I well led a project where we used employee engagement to deliver a solution that improved metrics.
+Interviewer: How do you approach learning a new skill?
+Kabir Patel: I so take hands-on courses and apply them to projects.
+Interviewer: How do you approach learning a new skill?
+Kabir Patel: I take hands-on courses and apply them to projects.
+Interviewer: Can you walk me through a challenging problem you solved?
+Kabir Patel: I you know worked on projects using employee engagement, communication, recruitment.
+Interviewer: Which tools and technologies do you use?
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Kabir Patel: Yes, I would like to know more about the team I’d be working with.","! for this opportunity. — My strengths are employee engagement and communication. My last project involved communication and cross-functional coordination. Tell me about a recent technical/project you worked on. My last project involved communication and cross-functional coordination. I want to deepen my expertise and lead a team of engineers/marketers. any ? I look forward to hearing from you. . Describe your role in your last project. My so last project involved communication and cross-functional coordination. Tell me about a recent technical/project you worked on. I well led a project where we used employee engagement to deliver a solution that improved metrics. I so take hands-on courses and apply them to projects. I take hands-on courses and apply them to projects. I you know worked on projects using employee engagement, communication, recruitment. Which tools and technologies do you use? That concludes our questions. Yes, I would like to know more about the team I’d be working with.","The candidate's strengths are employee engagement and communication. Her last project involved communication and cross-functional coordination. She wants to deepen her expertise and lead a team of engineers/marketers. She would like to know more about the team she would be working with. She is interested in working as an HR Recruiter. She has worked on projects using employee engagement, communication, recruitment and recruitment tools.","['communication', 'cross-functional coordination', 'recruitment', 'employee engagement']",Positive,No Red Flag
+1,INT1014,Myra Kulkarni,36,Female,AI/ML Engineer,"machine learning, python, deep learning, model deployment, data preprocessing","Develop and deploy machine learning models, perform data preprocessing and model evaluation, and work on production ML pipelines.",2025-03-13,"Myra Kulkarni: Good afternoon, thank you for taking the time.
+Interviewer: You're welcome. Let's start with some questions.
+Interviewer: Tell me about a recent technical/project you worked on.
+Myra Kulkarni: I led a project where we used machine learning to deliver a solution that improved metrics.
+Interviewer: How do you approach learning a new skill?
+Myra Kulkarni: I learn by building small projects and iterating quickly.
+Interviewer: How do you work with cross-functional teams?
+Candidate: I I mean tend to overanalyze but I've improved by setting time-boxes.
+Interviewer: How do you approach learning a new skill?
+Myra Kulkarni: I take hands-on courses and apply them to projects.
+Interviewer: What are your key strengths?
+Myra Kulkarni: I enjoy problem-solving and collaborating with teams.
+Interviewer: What motivates you at work?
+Myra Kulkarni: I you know want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: How do you handle deadlines and pressure?
+Myra Kulkarni: I am a AI/ML with experience in machine learning, python.
+Interviewer: How do you work with cross-functional teams?
+Myra Kulkarni: I uh enjoy problem-solving and collaborating with teams.
+Interviewer: Can you walk me through a challenging problem you solved?
+Myra Kulkarni: I well led a project where we used machine learning to deliver a solution that improved metrics.
+Interviewer: What is a weakness you are working on?
+Candidate: I can be cautious with deadlines, and I'm working on prioritization.
+Interviewer: What are your key strengths?
+Myra Kulkarni: My you know strengths are machine learning and python.
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Myra Kulkarni: No, thank you. I look forward to hearing from you.",", for taking the time. . Tell me about a recent technical/project you worked on. I led a project where we used machine learning to deliver a solution that improved metrics. I learn by building small projects and iterating quickly. I I mean tend to overanalyze but I've improved by setting time-boxes. I take hands-on courses and apply them to projects. I enjoy problem-solving and collaborating with teams. I you know want to deepen my expertise and lead a team of engineers/marketers. I am a AI/ML with experience in machine learning, python. I uh enjoy problem-solving and collaborating with teams. I well led a project where we used machine learning to deliver a solution that improved metrics. I can be cautious with deadlines, and I'm working on prioritization. My you know strengths are machine learning and python. That concludes our questions. No, . I look forward to hearing from you.","Interviewer is looking for an HR Recruiter. The candidate should focus on key technical skills, soft skills, project experience, career goals and motivation. They should write in 4-5 clean recruiter-style sentences about the recent technical/project that the candidate worked on and their strengths are machine learning and python. The interviewer is looking forward to hearing from the candidate.","['python', 'machine learning']",Positive,No Red Flag
+2,INT1018,Saanvi Saxena,44,Female,AI/ML Engineer,"machine learning, python, deep learning, model deployment, data preprocessing","Develop and deploy machine learning models, perform data preprocessing and model evaluation, and work on production ML pipelines.",2024-10-15,"Saanvi Saxena: Good morning! Thank you for this opportunity.
+Interviewer: Thanks for joining — let's begin.
+Interviewer: Tell me about a recent technical/project you worked on.
+Candidate: I well led a project where we used machine learning to deliver a solution that improved metrics.
+Interviewer: What motivates you at work?
+Saanvi Saxena: I want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: What is a weakness you are working on?
+Saanvi Saxena: Sometimes well I get too focused on details, but I try to delegate.
+Interviewer: Describe your role in your last project.
+Candidate: I developed a tool using machine learning that automated a lot of manual work.
+Interviewer: How do you handle deadlines and pressure?
+Saanvi Saxena: My strengths are machine learning and python.
+Interviewer: What motivates you at work?
+Candidate: In the next 5 years, I aim to grow into a leadership role.
+Interviewer: What motivates you at work?
+Saanvi Saxena: In the next 5 years, I aim to grow into a leadership role.
+Interviewer: What is a weakness you are working on?
+Saanvi Saxena: I ... tend to overanalyze but I've improved by setting time-boxes.
+Interviewer: What are your key strengths?
+Saanvi Saxena: I enjoy problem-solving and collaborating with teams.
+Interviewer: What is a weakness you are working on?
+Candidate: I can be cautious with deadlines, and I'm working on prioritization.
+Interviewer: Can you walk me through a challenging problem you solved?
+Saanvi Saxena: I ... led a project where we used machine learning to deliver a solution that improved metrics.
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Saanvi Saxena: No, thank you. I look forward to hearing from you.","! for this opportunity. — Tell me about a recent technical/project you worked on. I well led a project where we used machine learning to deliver a solution that improved metrics. I want to deepen my expertise and lead a team of engineers/marketers. Sometimes well I get too focused on details, but I try to delegate. Describe your role in your last project. I developed a tool using machine learning that automated a lot of manual work. My strengths are machine learning and python. In the next 5 years, I aim to grow into a leadership role. In the next 5 years, I aim to grow into a leadership role. I . tend to overanalyze but I've improved by setting time-boxes. I enjoy problem-solving and collaborating with teams. I can be cautious with deadlines, and I'm working on prioritization. I . led a project where we used machine learning to deliver a solution that improved metrics. That concludes our questions. No, . I look forward to hearing from you.","In the interview transcript, focus on key technical skills, soft skills, project experience, career goals and motivation. Write in 4-5 clean recruiter-style sentences. Tell me about a recent technical/project you worked on. Describe your role in your last project. Your strengths are machine learning and python. In the next 5 years, you want to grow into a leadership role.","['python', 'machine learning', 'leadership']",Positive,No Red Flag
+3,INT1026,Saanvi Bhatt,42,Female,Marketing Manager,"branding, campaigns, digital marketing, analytics, team management","Lead marketing campaigns, drive brand awareness across digital platforms, and manage a small marketing team. Creativity and analytics required.",2023-07-02,"Saanvi Bhatt: Hi, thanks for having me today.
+Interviewer: Thanks for joining — let's begin.
+Interviewer: What is a weakness you are working on?
+Saanvi Bhatt: Sometimes I get too focused on details, but I try to delegate.
+Interviewer: Which tools and technologies do you use?
+Saanvi Bhatt: I use Git for version control and Jenkins for CI/CD.
+Interviewer: How do you work with cross-functional teams?
+Saanvi Bhatt: I worked on projects using branding, campaigns, digital marketing.
+Interviewer: Describe your role in your last project.
+Saanvi Bhatt: For technical tasks I usually rely on branding and complement it with campaigns.
+Interviewer: To begin, can you tell me about yourself?
+Candidate: I ... am a Marketing with experience in branding, campaigns.
+Interviewer: Do you have any questions for us?
+Saanvi Bhatt: Thank uh you for your time. I'm excited about this opportunity.
+Interviewer: Tell me about a recent technical/project you worked on.
+Saanvi Bhatt: I have hands-on experience with branding and campaigns.
+Interviewer: Describe your role in your last project.
+Saanvi Bhatt: For technical tasks I usually rely on branding and complement it with campaigns.
+Interviewer: Tell me about a recent technical/project you worked on.
+Saanvi Bhatt: My last project involved campaigns and cross-functional coordination.
+Interviewer: Which tools and technologies do you use?
+Saanvi Bhatt: I use Git for version control and Jenkins for CI/CD.
+Interviewer: What is a weakness you are working on?
+Saanvi Bhatt: I tend to overanalyze but I've improved by setting time-boxes.
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Saanvi Bhatt: No, thank you. I look forward to hearing from you.","Hi, for having me today. — Sometimes I get too focused on details, but I try to delegate. Which tools and technologies do you use? I use Git for version control and Jenkins for CI/CD. I worked on projects using branding, campaigns, digital marketing. Describe your role in your last project. For technical tasks I usually rely on branding and complement it with campaigns. ? I . am a Marketing with experience in branding, campaigns. any ? Thank uh you for your time. I'm excited about this opportunity. Tell me about a recent technical/project you worked on. I have hands-on experience with branding and campaigns. Describe your role in your last project. For technical tasks I usually rely on branding and complement it with campaigns. Tell me about a recent technical/project you worked on. My last project involved campaigns and cross-functional coordination. Which tools and technologies do you use? I use Git for version control and Jenkins for CI/CD. I tend to overanalyze but I've improved by setting time-boxes. That concludes our questions. No, . I look forward to hearing from you.","The candidate is an HR Recruiter with experience in branding, campaigns and cross-functional coordination. She uses Git for version control and Jenkins for CI/CD. She has hands-on experience with branding and campaigns. She is excited about the opportunity. She doesn't have any questions for the interview. She will hear from the recruiter soon. She has improved her time management by setting time-boxes.","['cross-functional coordination', 'git', 'branding', 'campaigns']",Positive,No Red Flag
+4,INT1040,Saanvi Rao,33,Male,Marketing Manager,"branding, campaigns, digital marketing, analytics, team management","Lead marketing campaigns, drive brand awareness across digital platforms, and manage a small marketing team. Creativity and analytics required.",2025-07-04,"Saanvi Rao: Hi, thanks for having me today.
+Interviewer: Great to meet you. We'll go through some questions.
+Interviewer: Tell me about a recent technical/project you worked on.
+Candidate: I have hands-on experience with branding and campaigns.
+Interviewer: To begin, can you tell me about yourself?
+Candidate: I graduated in Computer Science and have worked on projects involving branding, campaigns.
+Interviewer: To begin, can you tell me about yourself?
+Saanvi Rao: I have around 6 years of experience focusing on branding, campaigns.
+Interviewer: How do you handle deadlines and pressure?
+Saanvi Rao: For technical tasks I usually rely on branding and complement it with campaigns.
+Interviewer: Do you have any questions for us?
+Saanvi Rao: Thank you for your time. I'm excited about this opportunity.
+Interviewer: What is a weakness you are working on?
+Saanvi Rao: I tend to overanalyze but I've improved by setting time-boxes.
+Interviewer: What are your key strengths?
+Saanvi Rao: My strengths are branding and campaigns.
+Interviewer: What are your key strengths?
+Saanvi Rao: My you know strengths are branding and campaigns.
+Interviewer: Which tools and technologies do you use?
+Saanvi Rao: I I mean use Git for version control and Jenkins for CI/CD.
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Saanvi Rao: No, thank you. I look forward to hearing from you.","Hi, for having me today. Great to meet you. We'll go through some questions. Tell me about a recent technical/project you worked on. I have hands-on experience with branding and campaigns. ? I graduated in Computer Science and have worked on projects involving branding, campaigns. ? I have around 6 years of experience focusing on branding, campaigns. For technical tasks I usually rely on branding and complement it with campaigns. any ? for your time. I'm excited about this opportunity. I tend to overanalyze but I've improved by setting time-boxes. My strengths are branding and campaigns. My you know strengths are branding and campaigns. Which tools and technologies do you use? I I mean use Git for version control and Jenkins for CI/CD. That concludes our questions. No, . I look forward to hearing from you.",An HR Recruiter is looking for a candidate with good technical skills and soft skills. The candidate has around 6 years of experience focusing on branding and campaigns. He graduated in Computer Science and uses Git for version control and Jenkins for CI/CD. He is excited about the opportunity and is looking forward to hearing from the recruiter about the position. He doesn't use time-boxes.,"['git', 'branding', 'campaigns']",Positive,No Red Flag
+5,INT1050,Riya Khan,31,Male,Marketing Manager,"branding, campaigns, digital marketing, analytics, team management","Lead marketing campaigns, drive brand awareness across digital platforms, and manage a small marketing team. Creativity and analytics required.",2023-06-16,"Riya Khan: Hi, thanks for having me today.
+Interviewer: You're welcome. Let's start with some questions.
+Interviewer: Can you walk me through a challenging problem you solved?
+Riya Khan: I developed a tool using branding that automated a lot of manual work.
+Interviewer: Can you walk me through a challenging problem you solved?
+Riya Khan: My uh last project involved campaigns and cross-functional coordination.
+Interviewer: Do you have any questions for us?
+Riya Khan: I look forward to hearing from you. Thank you.
+Interviewer: How do you handle deadlines and pressure?
+Riya Khan: I take hands-on courses and apply them to projects.
+Interviewer: Do you have any questions for us?
+Riya Khan: Thank so you for your time. I'm excited about this opportunity.
+Interviewer: How do you handle deadlines and pressure?
+Candidate: I want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: What are your key strengths?
+Riya Khan: My strengths are branding and campaigns.
+Interviewer: Which tools and technologies do you use?
+Riya Khan: I use Git for version control and Jenkins for CI/CD.
+Interviewer: Tell me about a recent technical/project you worked on.
+Riya Khan: I led a project where we used branding to deliver a solution that improved metrics.
+Interviewer: Do you have any questions for us?
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Riya Khan: No, thank you. I look forward to hearing from you.","Hi, for having me today. . I developed a tool using branding that automated a lot of manual work. My uh last project involved campaigns and cross-functional coordination. any ? I look forward to hearing from you. . I take hands-on courses and apply them to projects. any ? Thank so you for your time. I'm excited about this opportunity. I want to deepen my expertise and lead a team of engineers/marketers. My strengths are branding and campaigns. Which tools and technologies do you use? I use Git for version control and Jenkins for CI/CD. Tell me about a recent technical/project you worked on. I led a project where we used branding to deliver a solution that improved metrics. any ? That concludes our questions. No, . I look forward to hearing from you.",An HR Recruiter is interviewing for a position. He developed a tool using branding that automated a lot of manual work and his last project involved campaigns and cross-functional coordination. He wants to deepen his expertise and lead a team of engineers/marketers. He uses Git for version control and Jenkins for CI/CD. He takes hands-on courses and applies them to projects.,"['cross-functional coordination', 'git', 'branding', 'campaigns']",Positive,No Red Flag
+6,INT1054,Sara Patel,32,Male,Marketing Manager,"branding, campaigns, digital marketing, analytics, team management","Lead marketing campaigns, drive brand awareness across digital platforms, and manage a small marketing team. Creativity and analytics required.",2024-11-18,"Sara Patel: Good morning! Thank you for this opportunity.
+Interviewer: You're welcome. Let's start with some questions.
+Interviewer: Can you walk me through a challenging problem you solved?
+Candidate: My so last project involved campaigns and cross-functional coordination.
+Interviewer: Which tools and technologies do you use?
+Sara Patel: I regularly use tools like JIRA and Trello for tracking.
+Interviewer: Which tools and technologies do you use?
+Sara Patel: I you know regularly use tools like JIRA and Trello for tracking.
+Interviewer: Which tools and technologies do you use?
+Sara Patel: I use Git for version control and Jenkins for CI/CD.
+Interviewer: What are your key strengths?
+Sara Patel: I enjoy problem-solving and collaborating with teams.
+Interviewer: What is a weakness you are working on?
+Sara Patel: I can be cautious with deadlines, and I'm working on prioritization.
+Interviewer: Which tools and technologies do you use?
+Sara Patel: I regularly use tools like JIRA and Trello for tracking.
+Interviewer: What are your key strengths?
+Sara Patel: My strengths are branding and campaigns.
+Interviewer: How do you work with cross-functional teams?
+Sara Patel: I so take hands-on courses and apply them to projects.
+Interviewer: What is a weakness you are working on?
+Sara Patel: I can be cautious with deadlines, and I'm working on prioritization.
+Interviewer: Do you have any questions for us?
+Sara Patel: I well look forward to hearing from you. Thank you.","! for this opportunity. . My so last project involved campaigns and cross-functional coordination. Which tools and technologies do you use? I regularly use tools like JIRA and Trello for tracking. Which tools and technologies do you use? I you know regularly use tools like JIRA and Trello for tracking. Which tools and technologies do you use? I use Git for version control and Jenkins for CI/CD. I enjoy problem-solving and collaborating with teams. I can be cautious with deadlines, and I'm working on prioritization. Which tools and technologies do you use? I regularly use tools like JIRA and Trello for tracking. My strengths are branding and campaigns. I so take hands-on courses and apply them to projects. I can be cautious with deadlines, and I'm working on prioritization. any ? I well look forward to hearing from you. .",The candidate's last project involved campaigns and cross-functional coordination. He uses JIRA and Trello for tracking and Git for version control and Jenkins for CI/CD. He enjoys problem-solving and collaborating with teams. His strengths are branding and campaigns. He takes hands-on courses and applies them to projects. He can be cautious with deadlines and is working on prioritization.,"['cross-functional coordination', 'git', 'branding', 'campaigns']",Positive,No Red Flag
+7,INT1055,Rohan Agarwal,41,Male,AI/ML Engineer,"machine learning, python, deep learning, model deployment, data preprocessing","Develop and deploy machine learning models, perform data preprocessing and model evaluation, and work on production ML pipelines.",2025-06-20,"Rohan Agarwal: Hi, thanks for having me today.
+Interviewer: You're welcome. Let's start with some questions.
+Interviewer: How do you approach learning a new skill?
+Candidate: I learn by building small projects and iterating quickly.
+Interviewer: Can you walk me through a challenging problem you solved?
+Rohan Agarwal: My last project involved python and cross-functional coordination.
+Interviewer: Describe your role in your last project.
+Rohan Agarwal: I worked on projects using machine learning, python, deep learning.
+Interviewer: Do you have any questions for us?
+Rohan Agarwal: I look forward to hearing from you. Thank you.
+Interviewer: How do you handle deadlines and pressure?
+Rohan Agarwal: I use Git for version control and Jenkins for CI/CD.
+Interviewer: To begin, can you tell me about yourself?
+Rohan Agarwal: I am a AI/ML with experience in machine learning, python.
+Interviewer: How do you approach learning a new skill?
+Rohan Agarwal: I take hands-on courses and apply them to projects.
+Interviewer: How do you handle deadlines and pressure?
+Rohan Agarwal: My so last project involved python and cross-functional coordination.
+Interviewer: Tell me about a recent technical/project you worked on.
+Rohan Agarwal: My last project involved python and cross-functional coordination.
+Interviewer: How do you approach learning a new skill?
+Rohan Agarwal: I take hands-on courses and apply them to projects.
+Interviewer: To begin, can you tell me about yourself?
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Rohan Agarwal: Yes, I would like to know more about the team I’d be working with.","Hi, for having me today. . I learn by building small projects and iterating quickly. My last project involved python and cross-functional coordination. Describe your role in your last project. I worked on projects using machine learning, python, deep learning. any ? I look forward to hearing from you. . I use Git for version control and Jenkins for CI/CD. ? I am a AI/ML with experience in machine learning, python. I take hands-on courses and apply them to projects. My so last project involved python and cross-functional coordination. Tell me about a recent technical/project you worked on. My last project involved python and cross-functional coordination. I take hands-on courses and apply them to projects. ? That concludes our questions. Yes, I would like to know more about the team I’d be working with.","Interview questions focus on technical skills, soft skills, project experience, career goals and motivation. The candidate's last project involved python and cross-functional coordination. more about the team he would be working with. He is an HR Recruiter with experience in machine learning, python and deep learning. He uses Git for version control and Jenkins for CI/CD.","['git', 'deep learning', 'python', 'machine learning', 'cross-functional coordination']",Positive,No Red Flag
+8,INT1061,Meera Khan,39,Male,AI/ML Engineer,"machine learning, python, deep learning, model deployment, data preprocessing","Develop and deploy machine learning models, perform data preprocessing and model evaluation, and work on production ML pipelines.",2024-02-05,"Meera Khan: Hi, thanks for having me today.
+Interviewer: Thanks for joining — let's begin.
+Interviewer: Which tools and technologies do you use?
+Meera Khan: I use Git for version control and Jenkins for CI/CD.
+Interviewer: To begin, can you tell me about yourself?
+Candidate: I uh have around 6 years of experience focusing on machine learning, python.
+Interviewer: Do you have any questions for us?
+Meera Khan: Thank you for your time. I'm excited about this opportunity.
+Interviewer: Describe your role in your last project.
+Candidate: My last project involved python and cross-functional coordination.
+Interviewer: What is a weakness you are working on?
+Candidate: I tend to overanalyze but I've improved by setting time-boxes.
+Interviewer: What is a weakness you are working on?
+Meera Khan: I tend to overanalyze but I've improved by setting time-boxes.
+Interviewer: What motivates you at work?
+Candidate: In the next 5 years, I aim to grow into a leadership role.
+Interviewer: What are your key strengths?
+Meera Khan: I am detail-oriented and I communicate well with stakeholders.
+Interviewer: How do you handle deadlines and pressure?
+Meera Khan: I I mean tend to overanalyze but I've improved by setting time-boxes.
+Interviewer: Tell me about a recent technical/project you worked on.
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Meera Khan: No, thank you. I look forward to hearing from you.","Hi, for having me today. — Which tools and technologies do you use? I use Git for version control and Jenkins for CI/CD. ? I uh have around 6 years of experience focusing on machine learning, python. any ? for your time. I'm excited about this opportunity. Describe your role in your last project. My last project involved python and cross-functional coordination. I tend to overanalyze but I've improved by setting time-boxes. I tend to overanalyze but I've improved by setting time-boxes. In the next 5 years, I aim to grow into a leadership role. I am detail-oriented and I communicate well with stakeholders. I I mean tend to overanalyze but I've improved by setting time-boxes. Tell me about a recent technical/project you worked on. That concludes our questions. No, . I look forward to hearing from you.","The candidate has around 6 years of experience focusing on machine learning, python and cross-functional coordination. He uses Git for version control and Jenkins for CI/CD. In the next 5 years, he aims to grow into a leadership role. He is detail-oriented and he communicates well with stakeholders. He tends to overanalyze but he's improved by setting time-boxes.","['git', 'python', 'detail-oriented', 'machine learning', 'leadership', 'cross-functional coordination']",Positive,No Red Flag
+9,INT1066,Tara Chatterjee,34,Female,AI/ML Engineer,"machine learning, python, deep learning, model deployment, data preprocessing","Develop and deploy machine learning models, perform data preprocessing and model evaluation, and work on production ML pipelines.",2025-04-03,"Tara Chatterjee: Good afternoon, thank you for taking the time.
+Interviewer: Thanks for joining — let's begin.
+Interviewer: What are your key strengths?
+Tara Chatterjee: My strengths are machine learning and python.
+Interviewer: What motivates you at work?
+Tara Chatterjee: I want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: How do you work with cross-functional teams?
+Tara Chatterjee: For technical tasks I usually rely on machine learning and complement it with python.
+Interviewer: How do you handle deadlines and pressure?
+Tara Chatterjee: I want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: How do you handle deadlines and pressure?
+Tara Chatterjee: I regularly use tools like JIRA and Trello for tracking.
+Interviewer: Describe your role in your last project.
+Tara Chatterjee: I ... led a project where we used machine learning to deliver a solution that improved metrics.
+Interviewer: How do you handle deadlines and pressure?
+Candidate: In so the next 5 years, I aim to grow into a leadership role.
+Interviewer: What are your key strengths?
+Tara Chatterjee: My strengths are machine learning and python.
+Interviewer: What are your key strengths?
+Tara Chatterjee: I enjoy problem-solving and collaborating with teams.
+Interviewer: Describe your role in your last project.
+Tara Chatterjee: My last project involved python and cross-functional coordination.
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Tara Chatterjee: Yes, I would like to know more about the team I’d be working with.",", for taking the time. — My strengths are machine learning and python. I want to deepen my expertise and lead a team of engineers/marketers. For technical tasks I usually rely on machine learning and complement it with python. I want to deepen my expertise and lead a team of engineers/marketers. I regularly use tools like JIRA and Trello for tracking. Describe your role in your last project. I . led a project where we used machine learning to deliver a solution that improved metrics. In so the next 5 years, I aim to grow into a leadership role. My strengths are machine learning and python. I enjoy problem-solving and collaborating with teams. Describe your role in your last project. My last project involved python and cross-functional coordination. That concludes our questions. Yes, I would like to know more about the team I’d be working with.","In the interview transcript, focus on the candidate's technical skills, soft skills, project experience, achievements, career goals and motivation. For technical tasks, write in 4-5 clean recruiter-style sentences. My strengths are machine learning and python. I enjoy problem-solving and collaborating with teams. My last project involved python and cross-functional coordination. I would like to know more about the team I would be working with.","['python', 'machine learning', 'cross-functional coordination']",Positive,No Red Flag
+10,INT1086,Shaurya Rao,38,Male,AI/ML Engineer,"machine learning, python, deep learning, model deployment, data preprocessing","Develop and deploy machine learning models, perform data preprocessing and model evaluation, and work on production ML pipelines.",2024-11-25,"Shaurya Rao: Good afternoon, thank you for taking the time.
+Interviewer: Great to meet you. We'll go through some questions.
+Interviewer: To begin, can you tell me about yourself?
+Shaurya Rao: I have around 3 years of experience focusing on machine learning, python.
+Interviewer: How do you handle deadlines and pressure?
+Shaurya Rao: My strengths are machine learning and python.
+Interviewer: How do you work with cross-functional teams?
+Shaurya Rao: I uh want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: Which tools and technologies do you use?
+Shaurya Rao: I use SQL and Excel for analysis and reporting.
+Interviewer: What are your key strengths?
+Shaurya Rao: I enjoy problem-solving and collaborating with teams.
+Interviewer: Which tools and technologies do you use?
+Candidate: I use Git for version control and Jenkins for CI/CD.
+Interviewer: To begin, can you tell me about yourself?
+Candidate: I am a AI/ML with experience in machine learning, python.
+Interviewer: How do you approach learning a new skill?
+Shaurya Rao: I well take hands-on courses and apply them to projects.
+Interviewer: What motivates you at work?
+Shaurya Rao: I uh want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: What motivates you at work?
+Shaurya Rao: In uh the next 5 years, I aim to grow into a leadership role.
+Interviewer: Describe your role in your last project.
+Candidate: I have hands-on experience with machine learning and python.
+Interviewer: That concludes our questions. Do you have anything to ask us?
+Shaurya Rao: Yes, I would like to know more about the team I’d be working with.",", for taking the time. Great to meet you. We'll go through some questions. ? I have around 3 years of experience focusing on machine learning, python. My strengths are machine learning and python. I uh want to deepen my expertise and lead a team of engineers/marketers. Which tools and technologies do you use? I use SQL and Excel for analysis and reporting. I enjoy problem-solving and collaborating with teams. Which tools and technologies do you use? I use Git for version control and Jenkins for CI/CD. ? I am a AI/ML with experience in machine learning, python. I well take hands-on courses and apply them to projects. I uh want to deepen my expertise and lead a team of engineers/marketers. In uh the next 5 years, I aim to grow into a leadership role. Describe your role in your last project. I have hands-on experience with machine learning and python. That concludes our questions. Yes, I would like to know more about the team I’d be working with.","The candidate has around 3 years of experience focusing on machine learning and python. He wants to deepen his expertise and lead a team of engineers/marketers in the next 5 years. He uses Git for version control and Jenkins for CI/CD. more about the team he would be working with. He has hands-on experience with machine learning, he wants to grow into a leadership role.","['git', 'python', 'machine learning', 'leadership']",Positive,No Red Flag
+11,INT1088,Sneha Verma,24,Female,AI/ML Engineer,"machine learning, python, deep learning, model deployment, data preprocessing","Develop and deploy machine learning models, perform data preprocessing and model evaluation, and work on production ML pipelines.",2024-04-24,"Sneha Verma: Good morning! Thank you for this opportunity.
+Interviewer: Thanks for joining — let's begin.
+Interviewer: Can you walk me through a challenging problem you solved?
+Candidate: I you know worked on projects using machine learning, python, deep learning.
+Interviewer: Do you have any questions for us?
+Sneha Verma: I look forward to hearing from you. Thank you.
+Interviewer: Can you walk me through a challenging problem you solved?
+Candidate: I developed a tool using machine learning that automated a lot of manual work.
+Interviewer: What are your key strengths?
+Candidate: My strengths are machine learning and python.
+Interviewer: How do you handle deadlines and pressure?
+Sneha Verma: Thank you for your time. I'm excited about this opportunity.
+Interviewer: Describe your role in your last project.
+Sneha Verma: For technical tasks I usually rely on machine learning and complement it with python.
+Interviewer: What motivates you at work?
+Sneha Verma: I want to deepen my expertise and lead a team of engineers/marketers.
+Interviewer: Tell me about a recent technical/project you worked on.
+Sneha Verma: I you know worked on projects using machine learning, python, deep learning.
+Interviewer: Do you have any questions for us?
+Sneha Verma: I look forward to hearing from you. Thank you.
+Interviewer: Describe your role in your last project.
+Sneha Verma: My so last project involved python and cross-functional coordination.","! for this opportunity. — I you know worked on projects using machine learning, python, deep learning. any ? I look forward to hearing from you. . I developed a tool using machine learning that automated a lot of manual work. My strengths are machine learning and python. for your time. I'm excited about this opportunity. Describe your role in your last project. For technical tasks I usually rely on machine learning and complement it with python. I want to deepen my expertise and lead a team of engineers/marketers. Tell me about a recent technical/project you worked on. I you know worked on projects using machine learning, python, deep learning. any ? I look forward to hearing from you. . Describe your role in your last project. My so last project involved python and cross-functional coordination.","In the interview transcript, focus on key technical skills, soft skills, project experience and career goals. Don't include questions, fillers, stutters, or repeated lines. Write in 4-5 clean recruiter-style sentences. Describe your role in your last project. Tell me about a recent technical/project you worked on. You worked on projects using machine learning and python.","['python', 'machine learning']",Positive,No Red Flag
